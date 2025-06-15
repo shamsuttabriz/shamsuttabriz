@@ -1,16 +1,35 @@
-## Hi there 👋
+# hey there! I'm Tabriz 🌱
 
-<!--
-**shamsuttabriz/shamsuttabriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://personal-portfolio-iota-steel.vercel.app/" target="_blank" >
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shamsuttabriz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shamsuttabriz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shamsuttabriz.md@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+hey there! I'm **Tabriz**, a passionate web developer from Bangladesh.  
+I'm currently focused on learning full-stack web development using **React**, **Express**, and **MongoDB**. I enjoy solving real-world problems through code and love exploring new technologies every day. Always happy to connect and grow together 
+
+
+- 🌱 I'm currently learning **TypeScript** and **Express.js**
+- 🧠 Exploring the world of **AI** and **Backend Development**
+- 💬 Ask me anything about JavaScript, React, or Web Dev — I'm happy to help!
+- 💼 I'm working on a project called `Hirely` – a job tracking platform
+- ⚡ Fun Fact: I love building things that help others.
+
+---
+
+### 🔗 Find Me Online:
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1Ag3XyFRsF6fw8p60os2hBqluWr2r3_o6/view?usp=sharingN)
+- 📧 Email: [shamsuttabriz.md@gmail.com](mailto:shamsuttabriz.md@gmail.com)
